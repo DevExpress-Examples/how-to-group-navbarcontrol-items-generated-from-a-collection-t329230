@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/NavBarExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/NavBarExample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/NavBarExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/NavBarExample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/NavBarExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/NavBarExample/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/NavBarExample/ViewModel.cs) (VB: [ViewModel.vb](./VB/NavBarExample/ViewModel.vb))
 <!-- default file list end -->
